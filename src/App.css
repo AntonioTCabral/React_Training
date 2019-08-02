@@ -2,3 +2,16 @@
   font-family: sans-serif;
   text-align: center;
 }
+h1,h4,h3{
+  text-align: center;
+}
+div.row{
+  background-color:	#A9A9A9;
+  padding: 10px;
+}
+
+div.triagem{
+  background-color: #4682B4;
+  padding: 10px;
+}
+
